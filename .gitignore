@@ -1,0 +1,10 @@
+*.pyc
+/.idea
+sandbox.py
+config.py
+*.dem
+*.gif
+*.json
+*.avi
+*.jpg
+*.png
